@@ -24,7 +24,7 @@ It is a beginner-friendly project to understand DOM manipulation and event handl
 
 - HTML5
 - CSS3
-- JavaScript (Vanilla JS)
+- JavaScript
 
 ---
 
