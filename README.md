@@ -53,7 +53,7 @@ The functionality is handled using JavaScript event listeners and class toggling
 - addEventListener()
 - Class manipulation
 - Basic popup/modal logic
-- Improving
+- Improving UI interaction 
 
 ---
 
