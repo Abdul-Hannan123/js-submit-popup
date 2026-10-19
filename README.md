@@ -39,10 +39,3 @@ It is a beginner-friendly project to understand DOM manipulation and event handl
 The functionality is handled using JavaScript event listeners and class toggling.
 
 ---
-
-## 📷 Preview
-
-<img width="955" height="431" alt="result" src="https://github.com/user-attachments/assets/12f6e951-f4a0-4220-8fc7-ef4a7f3dcfd6" />
-
-
----
