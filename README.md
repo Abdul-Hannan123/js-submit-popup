@@ -62,8 +62,3 @@ The functionality is handled using JavaScript event listeners and class toggling
 This project was built for practice to strengthen frontend development skills.
 
 ---
-
-## 👨‍💻 Author
-
-Abdul Hannan
-Frontend Developer
