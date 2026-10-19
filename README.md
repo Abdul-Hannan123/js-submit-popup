@@ -46,13 +46,3 @@ The functionality is handled using JavaScript event listeners and class toggling
 
 
 ---
-
-## 📖 What I Learned
-
-- DOM Selection
-- addEventListener()
-- Class manipulation
-- Basic popup/modal logic
-- Improving UI interaction 
-
----
