@@ -56,9 +56,3 @@ The functionality is handled using JavaScript event listeners and class toggling
 - Improving UI interaction 
 
 ---
-
-## 🎯 Purpose
-
-This project was built for practice to strengthen frontend development skills.
-
----
