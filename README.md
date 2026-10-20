@@ -27,15 +27,3 @@ It is a beginner-friendly project to understand DOM manipulation and event handl
 - Vanilla JavaScript
 
 ---
-
-## 📂 How It Works
-
-1. User fills out the form.
-2. When the **Submit** button is clicked:
-   - A popup modal appears.
-3. When the **OK** button inside the popup is clicked:
-   - The popup disappears.
-
-The functionality is handled using JavaScript event listeners and class toggling.
-
----
