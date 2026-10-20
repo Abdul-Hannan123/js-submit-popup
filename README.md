@@ -19,11 +19,3 @@ It is a beginner-friendly project to understand DOM manipulation and event handl
 - Beginner-friendly JavaScript logic
 
 ---
-
-## 🛠 Technologies Used
-
-- HTML5
-- CSS3
-- Vanilla JavaScript
-
----
