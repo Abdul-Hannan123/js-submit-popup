@@ -15,6 +15,5 @@ It is a beginner-friendly project to understand DOM manipulation and event handl
 - Clean and simple UI
 - Popup appears on Submit button click
 - Popup disappears on OK button click
-- Smooth and interactive user experience
 
 ---
