@@ -6,6 +6,4 @@ A simple popup modal project built using HTML, CSS, and JavaScript.
 
 This project demonstrates how to create a popup modal that appears when a user clicks the **Submit** button and disappears when the user clicks **OK**.
 
-It is a beginner-friendly project to understand DOM manipulation and event handling in JavaScript.
-
 ---
