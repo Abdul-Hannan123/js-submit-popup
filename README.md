@@ -13,6 +13,5 @@ It is a beginner-friendly project to understand DOM manipulation and event handl
 ## 🚀 Features
 
 - Clean and simple UI
-- Popup appears on Submit button click
 
 ---
