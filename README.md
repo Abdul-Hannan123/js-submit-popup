@@ -9,9 +9,3 @@ This project demonstrates how to create a popup modal that appears when a user c
 It is a beginner-friendly project to understand DOM manipulation and event handling in JavaScript.
 
 ---
-
-## 🚀 Features
-
-- Clean and simple UI
-
----
