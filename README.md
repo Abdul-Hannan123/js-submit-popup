@@ -2,8 +2,4 @@
 
 A simple popup modal project built using HTML, CSS, and JavaScript.
 
-## 📌 Project Description
-
-This project demonstrates how to create a popup model 
-
 ---
