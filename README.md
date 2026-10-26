@@ -16,3 +16,11 @@ A simple and interactive **Popup Notification** built using HTML, CSS, and JavaS
 - ⚡ Lightweight and easy to use
 
 ---
+
+## 🛠️ Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
+
+---
