@@ -24,3 +24,11 @@ A simple and interactive **Popup Notification** built using HTML, CSS, and JavaS
 - JavaScript
 
 ---
+
+## 📸 Screenshot
+
+### Popup Notification Interface
+
+<img width="955" height="431" alt="result" src="https://github.com/user-attachments/assets/18be3220-5083-4753-a983-dd944c6fda3a" />
+
+---
