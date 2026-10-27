@@ -54,3 +54,14 @@ A simple and interactive **Popup Notification** built using HTML, CSS, and JavaS
 - Responsive web design
 
 ---
+
+## 🔮 Future Improvements
+
+- Add error and warning notifications
+- Add customizable popup messages
+- Close the popup by clicking outside it
+- Add automatic popup dismissal
+- Add more animation effects
+- Improve accessibility and keyboard support
+
+---
