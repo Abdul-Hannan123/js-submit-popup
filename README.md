@@ -32,3 +32,13 @@ A simple and interactive **Popup Notification** built using HTML, CSS, and JavaS
 <img width="955" height="431" alt="result" src="https://github.com/user-attachments/assets/18be3220-5083-4753-a983-dd944c6fda3a" />
 
 ---
+
+## 🎮 How to Use
+
+1. Open the project in your browser.
+2. Click the **Show** button to display the popup notification.
+3. Watch the popup appear with a smooth animation.
+4. Read the success message.
+5. Click the **OK** button to close the popup.
+
+---
