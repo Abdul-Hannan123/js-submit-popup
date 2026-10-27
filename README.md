@@ -42,3 +42,14 @@ A simple and interactive **Popup Notification** built using HTML, CSS, and JavaS
 5. Click the **OK** button to close the popup.
 
 ---
+
+🎯 What I Learned
+- DOM manipulation
+- JavaScript event handling
+- Showing and hiding HTML elements
+- CSS animations and transitions
+- Creating interactive popup messages
+- Styling buttons and notification cards
+- Responsive web design
+
+---
