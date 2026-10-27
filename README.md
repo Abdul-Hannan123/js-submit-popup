@@ -43,7 +43,8 @@ A simple and interactive **Popup Notification** built using HTML, CSS, and JavaS
 
 ---
 
-🎯 What I Learned
+## 🎯 What I Learned
+
 - DOM manipulation
 - JavaScript event handling
 - Showing and hiding HTML elements
