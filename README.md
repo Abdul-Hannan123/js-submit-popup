@@ -68,7 +68,7 @@ A simple and interactive **Popup Notification** built using HTML, CSS, and JavaS
 
 ## 👨‍💻 Author
 
-Abdul Hannan | Bscs Student
+Abdul Hannan Zahid | Bscs Student | Frontend Developer
 
 Built with HTML, CSS, and JavaScript.
 
