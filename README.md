@@ -21,7 +21,7 @@ A simple and interactive **Popup Notification** built using HTML, CSS, and JavaS
 
 - HTML5
 - CSS3
-- JavaScript
+- Vanilla JavaScript
 
 ---
 
@@ -68,7 +68,7 @@ A simple and interactive **Popup Notification** built using HTML, CSS, and JavaS
 
 ## 👨‍💻 Author
 
-Abdul Hannan Zahid | Bscs Student | Frontend Developer
+Abdul Hannan Zahid | BSCS Student | Frontend Developer
 
 Built with HTML, CSS, and JavaScript.
 
