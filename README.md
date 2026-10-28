@@ -65,9 +65,13 @@ A simple and interactive **Popup Notification** built using HTML, CSS, and JavaS
 - Improve accessibility and keyboard support
 
 ---
-👨‍💻 Author
+
+## 👨‍💻 Author
+
 Abdul Hannan
 
 Built with HTML, CSS, and JavaScript.
 
 ⭐ If you like this project, consider giving the repository a star!
+
+---
